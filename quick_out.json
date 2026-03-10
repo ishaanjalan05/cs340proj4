@@ -1,0 +1,28 @@
+{
+    "example.com": {
+        "geo_locations": [],
+        "hsts": false,
+        "http_server": "cloudflare",
+        "insecure_http": true,
+        "ipv4_addresses": [
+            "104.18.26.120",
+            "104.18.27.120"
+        ],
+        "ipv6_addresses": [
+            "2606:4700::6812:1a78",
+            "2606:4700::6812:1b78"
+        ],
+        "rdns_names": [],
+        "redirect_to_https": false,
+        "root_ca": "SSL Corporation",
+        "rtt_range": [
+            6,
+            6
+        ],
+        "scan_time": 1773177996.121693,
+        "tls_versions": [
+            "TLSv1.2",
+            "TLSv1.3"
+        ]
+    }
+}

@@ -1,0 +1,563 @@
+Network Scan Report
+===================
+
+Per-Domain Scan Results
+-----------------------
+Domain: acm.org
+---------------
+scan_time: 1773179283.161619
+ipv4_addresses: ["104.17.78.30", "104.17.79.30"]
+ipv6_addresses: []
+http_server: "cloudflare"
+insecure_http: true
+redirect_to_https: false
+hsts: false
+tls_versions: ["TLSv1.2", "TLSv1.3"]
+root_ca: "DigiCert Inc"
+rdns_names: []
+rtt_range: [4, 5]
+geo_locations: []
+
+Domain: amazon.com
+------------------
+scan_time: 1773178934.453212
+ipv4_addresses: ["98.82.161.185", "98.87.170.71", "98.87.170.74"]
+ipv6_addresses: []
+http_server: "Server"
+insecure_http: true
+redirect_to_https: true
+hsts: true
+tls_versions: ["TLSv1.2", "TLSv1.3"]
+root_ca: "DigiCert Inc"
+rdns_names: []
+rtt_range: [20, 26]
+geo_locations: ["Ashburn, Virginia, United States"]
+
+Domain: cra.org
+---------------
+scan_time: 1773179301.073211
+ipv4_addresses: ["54.242.59.162"]
+ipv6_addresses: []
+http_server: "Pagely-ARES/1.22.2"
+insecure_http: true
+redirect_to_https: true
+hsts: false
+tls_versions: ["TLSv1.2", "TLSv1.3"]
+root_ca: "Internet Security Research Group"
+rdns_names: []
+rtt_range: [26, 26]
+geo_locations: ["Ashburn, Virginia, United States"]
+
+Domain: ebpf.io
+---------------
+scan_time: 1773179400.586735
+ipv4_addresses: ["104.26.4.27", "104.26.5.27", "172.64.80.1", "172.67.71.235"]
+ipv6_addresses: ["2606:4700:130:436c:6f75:6466:6c61:7265", "2606:4700:20::681a:41b", "2606:4700:20::681a:51b", "2606:4700:20::ac43:47eb"]
+http_server: "cloudflare"
+insecure_http: true
+redirect_to_https: true
+hsts: true
+tls_versions: ["TLSv1.2", "TLSv1.3"]
+root_ca: "Google Trust Services LLC"
+rdns_names: []
+rtt_range: [4, 18]
+geo_locations: []
+
+Domain: en.wikipedia.org
+------------------------
+scan_time: 1773178916.368633
+ipv4_addresses: ["185.15.58.224", "208.80.153.224", "208.80.154.224"]
+ipv6_addresses: ["2620:0:860:ed1a::1", "2620:0:861:ed1a::1", "2a02:ec80:600:ed1a::1"]
+http_server: "HAProxy"
+insecure_http: true
+redirect_to_https: true
+hsts: false
+tls_versions: ["TLSv1.2", "TLSv1.3"]
+root_ca: "Internet Security Research Group"
+rdns_names: []
+rtt_range: [27, 113]
+geo_locations: []
+
+Domain: fandom.com
+------------------
+scan_time: 1773179008.313236
+ipv4_addresses: ["162.159.142.170", "172.66.2.166"]
+ipv6_addresses: []
+http_server: "cloudflare"
+insecure_http: true
+redirect_to_https: true
+hsts: true
+tls_versions: ["TLSv1.2", "TLSv1.3"]
+root_ca: "Google Trust Services LLC"
+rdns_names: []
+rtt_range: [4, 5]
+geo_locations: []
+
+Domain: ieee.org
+----------------
+scan_time: 1773179323.189924
+ipv4_addresses: ["140.98.193.152"]
+ipv6_addresses: []
+http_server: "BigIP"
+insecure_http: true
+redirect_to_https: true
+hsts: true
+tls_versions: ["TLSv1.2", "TLSv1.3"]
+root_ca: "GlobalSign"
+rdns_names: []
+rtt_range: [27, 27]
+geo_locations: ["Hoffman, New Jersey, United States"]
+
+Domain: illinois.edu
+--------------------
+scan_time: 1773179248.3740401
+ipv4_addresses: ["64.236.243.124"]
+ipv6_addresses: ["2a01:111:f100:1002::4134:dc6d"]
+http_server: "nginx/1.28.1"
+insecure_http: true
+redirect_to_https: true
+hsts: true
+tls_versions: ["TLSv1.2", "TLSv1.3"]
+root_ca: "The USERTRUST Network"
+rdns_names: []
+rtt_range: [6, 6]
+geo_locations: ["Chicago, Illinois, United States"]
+
+Domain: imdb.com
+----------------
+scan_time: 1773178988.393898
+ipv4_addresses: ["44.215.137.99", "98.82.155.134", "98.82.158.179"]
+ipv6_addresses: []
+http_server: "Server"
+insecure_http: true
+redirect_to_https: true
+hsts: false
+tls_versions: ["TLSv1.2", "TLSv1.3"]
+root_ca: "Amazon"
+rdns_names: []
+rtt_range: [23, 28]
+geo_locations: ["Ashburn, Virginia, United States"]
+
+Domain: instagram.com
+---------------------
+scan_time: 1773179065.9943008
+ipv4_addresses: ["157.240.202.174", "157.240.241.174", "157.240.254.174", "157.240.26.174", "57.144.172.34", "57.144.174.34", "57.144.204.34"]
+ipv6_addresses: ["2a03:2880:f23a:e5:face:b00c:0:4420", "2a03:2880:f275:1e9:face:b00c:0:4420", "2a03:2880:f27b:1e4:face:b00c:0:4420", "2a03:2880:f357:22:face:b00c:0:4420", "2a03:2880:f366:22:face:b00c:0:4420"]
+http_server: null
+insecure_http: true
+redirect_to_https: true
+hsts: true
+tls_versions: ["TLSv1.2", "TLSv1.3"]
+root_ca: "DigiCert Inc"
+rdns_names: []
+rtt_range: [5, 99]
+geo_locations: ["Chicago, Illinois, United States", "Minneapolis, Minnesota, United States", "Saint-Denis, \u00cele-de-France, France", "Secaucus, New Jersey, United States", "Southfield, Michigan, United States"]
+
+Domain: kellogg.northwestern.edu
+--------------------------------
+scan_time: 1773179192.378552
+ipv4_addresses: ["13.107.213.40", "13.107.226.51", "13.107.246.40", "13.107.253.51"]
+ipv6_addresses: []
+http_server: null
+insecure_http: true
+redirect_to_https: true
+hsts: false
+tls_versions: ["TLSv1.2", "TLSv1.3"]
+root_ca: "DigiCert Inc"
+rdns_names: []
+rtt_range: [49, 68]
+geo_locations: []
+
+Domain: kernel.org
+------------------
+scan_time: 1773179380.1172092
+ipv4_addresses: ["172.105.4.254"]
+ipv6_addresses: ["2600:3c04:e001:324:0:1991:8:25"]
+http_server: "nginx"
+insecure_http: true
+redirect_to_https: true
+hsts: true
+tls_versions: ["TLSv1.2", "TLSv1.3"]
+root_ca: "Internet Security Research Group"
+rdns_names: []
+rtt_range: [16, 16]
+geo_locations: ["Toronto, Ontario, Canada"]
+
+Domain: lab.senlin.dev
+----------------------
+scan_time: 1773179140.250308
+ipv4_addresses: ["104.21.60.142", "172.67.197.131", "188.114.96.2", "188.114.97.2"]
+ipv6_addresses: ["2606:4700:3033::ac43:c583", "2606:4700:3037::6815:3c8e", "2a06:98c1:3120::2", "2a06:98c1:3121::2"]
+http_server: "cloudflare"
+insecure_http: true
+redirect_to_https: false
+hsts: false
+tls_versions: ["TLSv1.2", "TLSv1.3"]
+root_ca: "Google Trust Services LLC"
+rdns_names: []
+rtt_range: [4, 7]
+geo_locations: []
+
+Domain: lwn.net
+---------------
+scan_time: 1773179341.2422981
+ipv4_addresses: ["173.255.236.65"]
+ipv6_addresses: ["2600:3c01::f03c:94ff:fe25:c7c7", "2600:3c03::f03c:93ff:febd:80f5", "2600:3c03::f03c:93ff:fefd:89a4"]
+http_server: "Apache/2.4.62 (CentOS Stream) OpenSSL/3.5.5"
+insecure_http: true
+redirect_to_https: true
+hsts: true
+tls_versions: ["TLSv1.2", "TLSv1.3"]
+root_ca: "Internet Security Research Group"
+rdns_names: []
+rtt_range: [54, 54]
+geo_locations: ["Cedar Knolls, New Jersey, United States"]
+
+Domain: mccormick.northwestern.edu
+----------------------------------
+scan_time: 1773179175.141048
+ipv4_addresses: ["165.124.149.20"]
+ipv6_addresses: []
+http_server: "Apache/2.4.41 (Ubuntu)"
+insecure_http: true
+redirect_to_https: true
+hsts: false
+tls_versions: ["TLSv1.2", "TLSv1.3"]
+root_ca: "The USERTRUST Network"
+rdns_names: []
+rtt_range: [4, 4]
+geo_locations: ["Villa Park, Illinois, United States"]
+
+Domain: networks.cs.northwestern.edu
+------------------------------------
+scan_time: 1773179157.668065
+ipv4_addresses: ["165.124.184.154"]
+ipv6_addresses: []
+http_server: "Caddy"
+insecure_http: true
+redirect_to_https: false
+hsts: false
+tls_versions: ["TLSv1.2", "TLSv1.3"]
+root_ca: "Internet Security Research Group"
+rdns_names: []
+rtt_range: [5, 5]
+geo_locations: []
+
+Domain: news.ycombinator.com
+----------------------------
+scan_time: 1773179360.3278039
+ipv4_addresses: ["209.216.230.207"]
+ipv6_addresses: ["2606:7100:1:67::26"]
+http_server: "nginx"
+insecure_http: true
+redirect_to_https: true
+hsts: true
+tls_versions: ["TLSv1.2"]
+root_ca: "Internet Security Research Group"
+rdns_names: []
+rtt_range: [69, 69]
+geo_locations: []
+
+Domain: northwestern.edu
+------------------------
+scan_time: 1773179104.103662
+ipv4_addresses: ["129.105.136.48"]
+ipv6_addresses: ["2620:10d:2060:1130::11"]
+http_server: "Apache"
+insecure_http: true
+redirect_to_https: true
+hsts: false
+tls_versions: ["TLSv1.2"]
+root_ca: "The USERTRUST Network"
+rdns_names: []
+rtt_range: [5, 5]
+geo_locations: ["Skokie, Illinois, United States"]
+
+Domain: one.one.one.one
+-----------------------
+scan_time: 1773179419.387913
+ipv4_addresses: ["1.0.0.1", "1.1.1.1"]
+ipv6_addresses: ["2606:4700:4700::1001", "2606:4700:4700::1111"]
+http_server: "cloudflare"
+insecure_http: true
+redirect_to_https: true
+hsts: false
+tls_versions: ["TLSv1.2", "TLSv1.3"]
+root_ca: "SSL Corporation"
+rdns_names: []
+rtt_range: [4, 4]
+geo_locations: []
+
+Domain: pinterest.com
+---------------------
+scan_time: 1773179027.51701
+ipv4_addresses: ["151.101.0.84", "151.101.128.84", "151.101.192.84", "151.101.64.84"]
+ipv6_addresses: []
+http_server: null
+insecure_http: true
+redirect_to_https: true
+hsts: true
+tls_versions: ["TLSv1.2", "TLSv1.3"]
+root_ca: "DigiCert Inc"
+rdns_names: []
+rtt_range: [3, 6]
+geo_locations: ["San Francisco, California, United States"]
+
+Domain: reddit.com
+------------------
+scan_time: 1773178970.788907
+ipv4_addresses: ["151.101.1.140", "151.101.129.140", "151.101.193.140", "151.101.65.140"]
+ipv6_addresses: ["2a04:4e42:200::396", "2a04:4e42:400::396", "2a04:4e42:600::396", "2a04:4e42::396"]
+http_server: "snooserv"
+insecure_http: true
+redirect_to_https: false
+hsts: false
+tls_versions: ["TLSv1.2", "TLSv1.3"]
+root_ca: "DigiCert Inc"
+rdns_names: []
+rtt_range: [3, 4]
+geo_locations: ["San Francisco, California, United States"]
+
+Domain: rust-lang.org
+---------------------
+scan_time: 1773179459.223872
+ipv4_addresses: ["185.199.108.153", "185.199.109.153", "185.199.110.153", "185.199.111.153"]
+ipv6_addresses: ["2606:50c0:8000::153", "2606:50c0:8001::153", "2606:50c0:8002::153", "2606:50c0:8003::153"]
+http_server: "GitHub.com"
+insecure_http: true
+redirect_to_https: true
+hsts: false
+tls_versions: ["TLSv1.2", "TLSv1.3"]
+root_ca: "Internet Security Research Group"
+rdns_names: []
+rtt_range: [3, 38]
+geo_locations: ["San Francisco, California, United States"]
+
+Domain: senlin.dev
+------------------
+scan_time: 1773179122.4469981
+ipv4_addresses: ["185.199.108.153", "185.199.109.153", "185.199.110.153", "185.199.111.153"]
+ipv6_addresses: ["2606:50c0:8000::153", "2606:50c0:8001::153", "2606:50c0:8002::153", "2606:50c0:8003::153"]
+http_server: "GitHub.com"
+insecure_http: true
+redirect_to_https: true
+hsts: false
+tls_versions: ["TLSv1.2", "TLSv1.3"]
+root_ca: "Internet Security Research Group"
+rdns_names: []
+rtt_range: [3, 5]
+geo_locations: ["San Francisco, California, United States"]
+
+Domain: stackoverflow.com
+-------------------------
+scan_time: 1773179438.444692
+ipv4_addresses: ["198.252.206.1"]
+ipv6_addresses: []
+http_server: "cloudflare"
+insecure_http: true
+redirect_to_https: false
+hsts: false
+tls_versions: ["TLSv1.2", "TLSv1.3"]
+root_ca: "Internet Security Research Group"
+rdns_names: []
+rtt_range: [4, 4]
+geo_locations: []
+
+Domain: stevetarzia.com
+-----------------------
+scan_time: 1773179265.6508229
+ipv4_addresses: ["3.143.61.245"]
+ipv6_addresses: []
+http_server: "Apache/2.4.62 () OpenSSL/1.0.2k-fips PHP/5.4.16"
+insecure_http: true
+redirect_to_https: true
+hsts: false
+tls_versions: ["TLSv1.2"]
+root_ca: "Internet Security Research Group"
+rdns_names: []
+rtt_range: [27, 27]
+geo_locations: []
+
+Domain: tripadvisor.com
+-----------------------
+scan_time: 1773179044.772177
+ipv4_addresses: ["108.138.128.2", "108.138.128.62", "108.138.128.67", "108.138.128.94", "18.155.129.22", "18.155.129.51", "18.155.129.65", "18.155.129.92", "18.172.134.16", "18.172.134.33", "18.172.134.6", "18.172.134.62", "18.238.136.112", "18.238.136.116", "18.238.136.75", "18.238.136.96", "99.84.203.51", "99.84.203.56", "99.84.203.61", "99.84.203.77"]
+ipv6_addresses: []
+http_server: "DataDome"
+insecure_http: true
+redirect_to_https: true
+hsts: false
+tls_versions: ["TLSv1.2", "TLSv1.3"]
+root_ca: "Amazon"
+rdns_names: []
+rtt_range: [4, 107]
+geo_locations: []
+
+Domain: uchicago.edu
+--------------------
+scan_time: 1773179230.559417
+ipv4_addresses: ["3.215.148.80"]
+ipv6_addresses: []
+http_server: "Apache"
+insecure_http: true
+redirect_to_https: true
+hsts: false
+tls_versions: ["TLSv1.2", "TLSv1.3"]
+root_ca: "The USERTRUST Network"
+rdns_names: []
+rtt_range: [24, 24]
+geo_locations: ["Ashburn, Virginia, United States"]
+
+Domain: users.cs.northwestern.edu
+---------------------------------
+scan_time: 1773179212.473669
+ipv4_addresses: ["129.105.44.20"]
+ipv6_addresses: []
+http_server: "Apache"
+insecure_http: true
+redirect_to_https: true
+hsts: false
+tls_versions: ["TLSv1.2"]
+root_ca: "The USERTRUST Network"
+rdns_names: []
+rtt_range: [5, 5]
+geo_locations: ["Chicago, Illinois, United States"]
+
+Domain: walmart.com
+-------------------
+scan_time: 1773179085.667446
+ipv4_addresses: ["184.29.90.191", "184.30.252.175", "2.16.232.188", "23.193.236.189", "23.197.192.178", "23.39.212.193", "23.54.40.175", "23.63.208.178"]
+ipv6_addresses: []
+http_server: "AkamaiGHost"
+insecure_http: true
+redirect_to_https: true
+hsts: true
+tls_versions: ["TLSv1.2", "TLSv1.3"]
+root_ca: "GlobalSign"
+rdns_names: []
+rtt_range: [5, 105]
+geo_locations: ["Atlanta, Georgia, United States", "Chicago, Illinois, United States", "El Segundo, California, United States", "Minneapolis, Minnesota, United States", "Richardson, Texas, United States", "Schiphol, North Holland, The Netherlands", "Slough, England, United Kingdom", "Toronto, Ontario, Canada"]
+
+Domain: yelp.com
+----------------
+scan_time: 1773178952.11846
+ipv4_addresses: ["146.75.76.116", "146.75.80.116", "146.75.92.116", "151.101.120.116", "199.232.64.116"]
+ipv6_addresses: []
+http_server: "envoy"
+insecure_http: true
+redirect_to_https: true
+hsts: true
+tls_versions: ["TLSv1.2", "TLSv1.3"]
+root_ca: "DigiCert Inc"
+rdns_names: []
+rtt_range: [5, 100]
+geo_locations: ["Chicago, Illinois, United States", "Denver, Colorado, United States", "Los Angeles, California, United States", "Paris, \u00cele-de-France, France"]
+
+Domain: youtube.com
+-------------------
+scan_time: 1773178897.694067
+ipv4_addresses: ["142.250.115.136", "142.250.115.190", "142.250.115.91", "142.250.115.93", "142.250.177.78", "142.250.189.110", "142.251.34.238", "142.251.39.206", "172.217.5.14", "192.178.192.136", "192.178.192.190", "192.178.192.91", "192.178.192.93", "64.233.177.136", "64.233.177.190", "64.233.177.91", "64.233.177.93", "64.233.185.136", "64.233.185.190", "64.233.185.91", "64.233.185.93"]
+ipv6_addresses: ["2607:f8b0:4002:c08::5b", "2607:f8b0:4002:c08::5d", "2607:f8b0:4002:c08::88", "2607:f8b0:4002:c08::be", "2607:f8b0:4002:c09::5b", "2607:f8b0:4002:c09::5d", "2607:f8b0:4002:c09::88", "2607:f8b0:4002:c09::be", "2607:f8b0:4009:800::200e", "2607:f8b0:4009:802::200e", "2607:f8b0:4009:803::200e", "2607:f8b0:4023:1004::5b", "2607:f8b0:4023:1004::5d", "2607:f8b0:4023:1004::88", "2607:f8b0:4023:1004::be", "2607:f8b0:4023:1807::5b", "2607:f8b0:4023:1807::5d", "2607:f8b0:4023:1807::88", "2607:f8b0:4023:1807::be", "2a00:1450:4007:809::200e"]
+http_server: "ESF"
+insecure_http: true
+redirect_to_https: true
+hsts: true
+tls_versions: ["TLSv1.2", "TLSv1.3"]
+root_ca: "Google Trust Services LLC"
+rdns_names: []
+rtt_range: [4, 92]
+geo_locations: []
+
+RTT Ranges (Fastest to Slowest)
+-------------------------------
++------------------------------+--------------+--------------+
+| Domain                       | RTT Min (ms) | RTT Max (ms) |
++------------------------------+--------------+--------------+
+| reddit.com                   | 3            | 4            |
+| senlin.dev                   | 3            | 5            |
+| pinterest.com                | 3            | 6            |
+| rust-lang.org                | 3            | 38           |
+| mccormick.northwestern.edu   | 4            | 4            |
+| one.one.one.one              | 4            | 4            |
+| stackoverflow.com            | 4            | 4            |
+| acm.org                      | 4            | 5            |
+| fandom.com                   | 4            | 5            |
+| lab.senlin.dev               | 4            | 7            |
+| ebpf.io                      | 4            | 18           |
+| youtube.com                  | 4            | 92           |
+| tripadvisor.com              | 4            | 107          |
+| networks.cs.northwestern.edu | 5            | 5            |
+| northwestern.edu             | 5            | 5            |
+| users.cs.northwestern.edu    | 5            | 5            |
+| instagram.com                | 5            | 99           |
+| yelp.com                     | 5            | 100          |
+| walmart.com                  | 5            | 105          |
+| illinois.edu                 | 6            | 6            |
+| kernel.org                   | 16           | 16           |
+| amazon.com                   | 20           | 26           |
+| imdb.com                     | 23           | 28           |
+| uchicago.edu                 | 24           | 24           |
+| cra.org                      | 26           | 26           |
+| ieee.org                     | 27           | 27           |
+| stevetarzia.com              | 27           | 27           |
+| en.wikipedia.org             | 27           | 113          |
+| kellogg.northwestern.edu     | 49           | 68           |
+| lwn.net                      | 54           | 54           |
+| news.ycombinator.com         | 69           | 69           |
++------------------------------+--------------+--------------+
+
+Root Certificate Authority Popularity
+-------------------------------------
++----------------------------------+-------+
+| Root CA                          | Count |
++----------------------------------+-------+
+| Internet Security Research Group | 10    |
+| DigiCert Inc                     | 7     |
+| The USERTRUST Network            | 5     |
+| Google Trust Services LLC        | 4     |
+| Amazon                           | 2     |
+| GlobalSign                       | 2     |
+| SSL Corporation                  | 1     |
++----------------------------------+-------+
+
+HTTP Server Popularity
+----------------------
++-------------------------------------------------+-------+
+| HTTP Server                                     | Count |
++-------------------------------------------------+-------+
+| cloudflare                                      | 6     |
+| Apache                                          | 3     |
+| GitHub.com                                      | 2     |
+| Server                                          | 2     |
+| nginx                                           | 2     |
+| AkamaiGHost                                     | 1     |
+| Apache/2.4.41 (Ubuntu)                          | 1     |
+| Apache/2.4.62 () OpenSSL/1.0.2k-fips PHP/5.4.16 | 1     |
+| Apache/2.4.62 (CentOS Stream) OpenSSL/3.5.5     | 1     |
+| BigIP                                           | 1     |
+| Caddy                                           | 1     |
+| DataDome                                        | 1     |
+| ESF                                             | 1     |
+| HAProxy                                         | 1     |
+| Pagely-ARES/1.22.2                              | 1     |
+| envoy                                           | 1     |
+| nginx/1.28.1                                    | 1     |
+| snooserv                                        | 1     |
++-------------------------------------------------+-------+
+
+Security Feature Support
+------------------------
++----------------+-------------------+---------+
+| Feature        | Supported Domains | Percent |
++----------------+-------------------+---------+
+| SSLv2          | 0                 | 0.0%    |
+| SSLv3          | 0                 | 0.0%    |
+| TLSv1.0        | 0                 | 0.0%    |
+| TLSv1.1        | 0                 | 0.0%    |
+| TLSv1.2        | 31                | 100.0%  |
+| TLSv1.3        | 27                | 87.1%   |
+| plain http     | 31                | 100.0%  |
+| https redirect | 26                | 83.9%   |
+| hsts           | 13                | 41.9%   |
+| ipv6           | 14                | 45.2%   |
++----------------+-------------------+---------+
