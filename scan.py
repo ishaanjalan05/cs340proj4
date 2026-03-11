@@ -349,10 +349,13 @@ def get_rdns_names(ipv4_addresses):
             continue
 
         for line in output.splitlines():
-            if " name = " in line.lower():
-                name = line.split("=", 1)[1].strip().rstrip(".")
-                if name:
-                    names.add(name)
+            match = re.search(r"\bname\s*=\s*([^\s]+)", line, re.IGNORECASE)
+            if not match:
+                continue
+
+            name = match.group(1).strip().rstrip(".")
+            if name:
+                names.add(name)
 
     return sorted(names)
 
